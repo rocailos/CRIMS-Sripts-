@@ -1,2 +1,2 @@
-# CRIMS-Sripts-
+# CRIMS {Sripts}
 Posant llum a la foscor
